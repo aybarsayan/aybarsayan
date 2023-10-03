@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WidgetVRP
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me @aybars_ayan
 
