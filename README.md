@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WidgetVRP
+- 👋 Hi, I’m @aybarsayan
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on cool projects
